@@ -71,7 +71,7 @@ bash wormholes_install.sh
 ```
 Tekan Enter dan tidak perlu memasukkan Private Key lagi tunggu saja sampai selesai, Setelah itu cek log jika connection dan blok sync tetap 0 ulang command diatas kemudian tekan Y dan masukkan kembali Private Key
 
-## Cek Versi
+## Cek Versi Wormholes
 ```
 curl -X POST -H "Content-Type:application/json" --data '{"jsonrpc":"2.0","method":"eth_version","id":64}' http://127.0.0.1:8545
 ```
