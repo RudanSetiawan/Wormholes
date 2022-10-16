@@ -8,6 +8,12 @@ Minimal Spesifikasi VPS
 
 160GB/200GB SSD/NVME Storage
 
+## Membuat wallet/Import wallet
+
+Buat wallet di https://www.limino.com/#/wallet Jika ingin Import wallet gunakan Seed Phase Metamask
+ 
+![image](https://user-images.githubusercontent.com/91402307/196043477-cfa849d3-3f08-48f2-b6e0-c053c6330b81.png)
+
 ## Open Port
 ```
 sudo ufw allow 22 && sudo ufw allow 30303/tpc && sudo ufw enable
@@ -40,7 +46,8 @@ git clone https://github.com/wormholes-org/wormholes
 cd wormholes
 bash ./wormholes_install.sh
 ```
-Masukkan Private Key https://www.limino.com/#/wallet
+Masukkan Private Key https://www.limino.com/#/wallet dibagian setting 
+![image](https://user-images.githubusercontent.com/91402307/196043342-272a7e07-f2a5-4fba-999e-d3e80c09743b.png)
 
 ## Install Cek Log
 ```
@@ -54,16 +61,15 @@ bash ./checkworm.sh
 Tunggu hingga Sync
 
 ## Jadi Validator
-
+Setelah Sync silahkan delegate ERB Coin di Become A Validator 
 ![image](https://user-images.githubusercontent.com/91402307/196043288-15910eff-9c2a-4363-a6cc-107dca8cf402.png)
-Setelah Sync silahkan delegate ERB Coin disana
 
 ## Cara Update Versi 
 ```
 cd wormholes 
 bash wormholes_install.sh
 ```
-Tekan Enter tunggu saja sampai selesai 
+Tekan Enter dan tidak perlu memasukkan Private Key lagi tunggu saja sampai selesai, Setelah itu cek log jika connection dan blok sync tetap 0 ulang command diatas kemudian tekan Y dan masukkan kembali Private Key
 
 ## Cek Versi
 ```
