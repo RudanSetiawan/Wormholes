@@ -64,7 +64,7 @@ Tunggu hingga Sync
 Setelah Sync silahkan delegate ERB Coin di Become A Validator 
 ![image](https://user-images.githubusercontent.com/91402307/196043288-15910eff-9c2a-4363-a6cc-107dca8cf402.png)
 
-## Cara Update Versi 
+## Cara Update Versi Wormholes
 ```
 cd wormholes 
 bash wormholes_install.sh
