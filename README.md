@@ -48,6 +48,8 @@ git clone https://github.com/wormholes-org/wormholes
 ```
 
 ## Jalankan Wormholes
+
+Sebelum run Wormholes sh pastikan sudah copas PK wallet jadi saat diminta tinggal memasukkan saja  
 ```
 cd wormholes
 bash ./wormholes_install.sh
