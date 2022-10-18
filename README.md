@@ -14,6 +14,11 @@ Buat wallet di https://www.limino.com/#/wallet Jika ingin Import wallet gunakan 
  
 ![image](https://user-images.githubusercontent.com/91402307/196043477-cfa849d3-3f08-48f2-b6e0-c053c6330b81.png)
 
+## Daftar Untuk Mendaptakan Fauncet Part 1
+
+https://gleam.io/1nbP9/mirror-universe-no2
+![image](https://user-images.githubusercontent.com/91402307/196396809-652ffe31-d0e8-475e-87fa-951b25bc4461.png)
+
 ## Open Port
 ```
 sudo ufw allow 22 && sudo ufw allow 30303/tpc && sudo ufw enable
@@ -59,6 +64,11 @@ wget -O checkworm.sh https://raw.githubusercontent.com/pramonoutomo/wormholes-sc
 bash ./checkworm.sh
 ```
 Tunggu hingga Sync
+
+## Daftar Untuk Mendaptakan Fauncet Part 2
+
+Setelah selesai mengisi Gleam dan Sync silahkan Screenshot Log kalian dan kirim Screenhot tersebut ke market@wormholes.com mereka akan meninjau apakah kalian layak atau tidak (Good Luck)
+![image](https://user-images.githubusercontent.com/91402307/196398203-10c34886-6057-44be-bb10-b21242a3fbbf.png)
 
 ## Jadi Validator
 Setelah Sync silahkan delegate ERB Coin di Become A Validator 
