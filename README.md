@@ -62,6 +62,7 @@ wget -O checkworm.sh https://raw.githubusercontent.com/pramonoutomo/wormholes-sc
 
 ## Cek Log
 ```
+cd wormholes
 bash ./checkworm.sh
 ```
 Tunggu hingga Sync
