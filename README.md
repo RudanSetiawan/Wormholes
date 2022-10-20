@@ -21,7 +21,7 @@ https://gleam.io/1nbP9/mirror-universe-no2
 
 ## Open Port
 ```
-sudo ufw allow 22 && sudo ufw allow 30303/tpc && sudo ufw enable
+sudo ufw allow 22 && sudo ufw allow 30303 && sudo ufw enable
 ```
 
 ## Install Docker
