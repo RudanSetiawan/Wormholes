@@ -93,4 +93,4 @@ Selesai update versi silahkan tunggu beberapa menit setelah itu cek versi untuk 
 
 ## Hapus Wormholes
 ```
-cd $HOME && docker stop wormholes && rm -rf wormholes
+cd $HOME && docker stop wormholes && docker rm ursula && rm -rf wormholes
