@@ -81,6 +81,7 @@ Setelah Sync silahkan delegate ERB Coin di Become A Validator
 ## Cara Update Versi Wormholes
 ```
 cd wormholes 
+git pull
 bash wormholes_install.sh
 ```
 Tekan Enter dan tidak perlu memasukkan Private Key lagi tunggu saja sampai selesai, Setelah itu cek log jika connection dan blok sync tetap 0 ulang command diatas kemudian tekan Y dan masukkan kembali Private Key
